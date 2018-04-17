@@ -1,0 +1,38 @@
+{
+  "name": "wgo",
+  "version": "0.1.0",
+  "description": "WGo.js is javascript library for purposes of go game.",
+  "main": "dist/wgo.min.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eljefedelrodeodeljefe/wgo.js.git"
+  },
+  "keywords": [
+    "go",
+    "game",
+    "gogame",
+    "baduk",
+    "weiqi"
+  ],
+  "author": "Robert Jefe Lindstaedt <robert.lindstaedt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eljefedelrodeodeljefe/wgo.js/issues"
+  },
+  "homepage": "https://github.com/eljefedelrodeodeljefe/wgo.js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
